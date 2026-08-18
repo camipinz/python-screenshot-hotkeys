@@ -25,6 +25,11 @@ Tesseract is the OCR engine, and `pytesseract` lets Python talk to Tesseract.
 - `pytesseract`: Python wrapper that sends images to Tesseract OCR so text can be extracted from screenshots.
 - `pywin32`: Windows-only package used to copy images to the Windows clipboard.
 
+## Windows Setup
+
+```bash
+pip install -r requirements.txt
+
 ## Mac Setup
 
 ```bash
