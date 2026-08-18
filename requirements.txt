@@ -1,0 +1,5 @@
+keyboard
+pyautogui
+pillow
+pytesseract
+pywin32; platform_system == "Windows"
