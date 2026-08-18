@@ -29,9 +29,11 @@ Tesseract is the OCR engine, and `pytesseract` lets Python talk to Tesseract.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Mac Setup
 
 ```bash
 pip install -r requirements.txt
 brew install tesseract
+```
